@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunmadhuranga" alt="kasunmadhuranga" /></a> </p>
 
-- 🔭 I’m currently working on **British multinational telecommunications**
-
 - 🌱 I’m currently learning **Angular, React, Next.js, Nestjs, Node and Java**
 
 - 💬 Ask me about **Angular, React, Node.js, and general full-stack development practices.**
